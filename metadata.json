@@ -1,0 +1,6 @@
+{
+  "name": "MotoCraft Motors & Workshop",
+  "description": "Comprehensive pre-owned two-wheeler sales, genuine spare parts catalog, customer live service tracker, inventory tracking, and admin dashboard with automated service alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
